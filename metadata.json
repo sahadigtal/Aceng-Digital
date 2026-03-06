@@ -1,0 +1,7 @@
+{
+  "name": "Daily Work Aceng",
+  "description": "A high-performance Digital Marketing Daily Work Tracker with a Cyber Digital theme, featuring cloud sync simulation, PDF reporting, and rich-text work logging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
